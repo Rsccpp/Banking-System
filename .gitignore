@@ -1,0 +1,41 @@
+### VS Code ###
+.vscode/
+
+### Windows OS ###
+# Windows thumbnail cache and system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### Java build ###
+bin/
+out/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs ###
+*.log
+
+### Environment files ###
+.env
+
+### IDE files ###
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### Gradle / Maven ###
+.gradle/
+build/
+target/
+
+### Misc ###
+*.swp
+*.swo
