@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Banking-System
 Developed a Java-based Online Banking System that simulates essential banking operations using JDBC for database connectivity and MySQL as the backend.
 =======
@@ -42,5 +41,3 @@ Follow these steps to set up and run the project on your local machine:
 
 # 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
-
->>>>>>> master
