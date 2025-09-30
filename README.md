@@ -1,6 +1,3 @@
-# Banking-System
-Developed a Java-based Online Banking System that simulates essential banking operations using JDBC for database connectivity and MySQL as the backend.
-=======
 # 🏦 Banking System Project
 
 Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
