@@ -2,6 +2,8 @@
 
 Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
 
+---
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project on your local machine:
@@ -18,11 +20,9 @@ Follow these steps to set up and run the project on your local machine:
    ```shell
    java BankingApp
 
-# 📂 Project Structure
-- 'src/': Contains the Java source code files.
+---
 
-
-# 📦 Features
+## 📦 Features
 - User Registration & Login
 - Account Creation
 - Debit and Credit Transactions
@@ -30,11 +30,31 @@ Follow these steps to set up and run the project on your local machine:
 - Balance Inquiry
 - Robust Security Measures
 
-# 🌐 Technologies Used
+---
+
+## 📂 Project Structure
+
+```text
+BankingSystem/
+├── lib/
+│   └── mysql-connector-j-9.4.0.jar
+└── src/
+    └── BankingManagementSystem/
+        ├── AccountManager.java
+        ├── Accounts.java
+        ├── BankingApp.java
+        └── User.java
+```
+---
+
+## 🌐 Technologies Used
 - Java
 - JDBC (Java Database Connectivity)
 - MySQL (or your preferred database system)
 
+---
 
-# 🤝 Contributing
+## 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
+
+---
